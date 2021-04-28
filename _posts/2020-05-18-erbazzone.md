@@ -26,7 +26,7 @@ L’erbazzone è una torta salata di spinaci e pancetta, tipica del reggiano, ch
 * 2 cucchiai di olio extravergine d'oliva
 * 1 noce di burro
 * 120 g di parmigiano
-* sale q. b.
+* sale q.b.
 
 
 ## Preparazione
@@ -39,10 +39,10 @@ L’erbazzone è una torta salata di spinaci e pancetta, tipica del reggiano, ch
 
 4. Aggiungete la pancetta e fate saltare, poi gli spinaci, sale e pepe e fate insaporire a fuoco basso.
 
-5. Dividete l'impasto in due parti e tirate le sfoglie il più possibile sottile possibile. Con il primo disco, quello più grande, foderate una tortiera imburrata e infarinata
+5. Dividete l'impasto in due parti e tirate le sfoglie il più sottile possibile. Con il primo disco, quello più grande, foderate una tortiera imburrata e infarinata.
 
-6. Bucherellate la pasta con una forchetta e versatevi il composto con il parmigiano, coprite con l'altro disco, bucherellate la superficie, chiudete bene i bordi.
+6. Bucherellate la pasta con una forchetta e versate il composto con il parmigiano, coprite con l'altro disco, bucherellate la superficie, chiudete bene i bordi.
 
-7. Spennellate la superficie con il burro sciolto e cuocete in forno a 180 °C per circa 20 minuti, forno statico, poi spennellate la superficie con un po' di olio e fate cuocere per altri 10 minuti.
+7. Spennellate la superficie con il burro sciolto e cuocete in forno statico a 180 °C per circa 20 minuti, poi spennellate la superficie con un po' di olio e fate cuocere per altri 10 minuti.
 
 8. Una volta pronto, lasciatelo riposare 10 minuti prima di tagliarlo a piccoli quadratini e servire.
