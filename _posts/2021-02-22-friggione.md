@@ -16,14 +16,14 @@ Il friggione bolognese è un saporito contorno a base di cipolle e pomodori. Ver
 * 400 g di pomodori maturi sbollentati sbucciati senza pelle
 * 1 cucchiaino di zucchero semolato
 * 1 cucchiaino di sale grosso
-* pepe nero q. b.
+* pepe nero q.b.
 
 
 
 
 ## Preparazione
 
-1. Iniziate la preparazione del friggione bolognese mondando le cipolle e affettandole sottilmente al coltello o con una mandolina. Raccoglietele in una ciotola capiente, aggiungete lo zucchero e il sale e mescolatele bene. Lasciate che perdano la loro acqua: occorreranno almeno 2 ore, ma se avete più tempo a disposizione le potete lasciare anche di più, ne guadagneranno in dolcezza.
+1. Iniziate la preparazione del friggione bolognese montando le cipolle e affettandole sottilmente al coltello o con una mandolina. Raccoglietele in una ciotola capiente, aggiungete lo zucchero e il sale e mescolate bene. Lasciate che perdano la loro acqua: occorreranno almeno 2 ore, ma se avete più tempo a disposizione le potete lasciare anche di più (ne guadagneranno in dolcezza!).
 
 2. In una casseruola capiente e dal fondo spesso ponete le cipolle con il loro liquido e lo strutto. Cuocetele a fuoco basso, mescolando di tanto in tanto, per circa 2 ore. È fondamentale, durante questa prima fase di cottura, controllarle spesso per evitare che si attacchino al fondo del tegame. Quando le cipolle avranno assunto una consistenza molto morbida e un colore nocciola unite i pomodori spezzettati e abbondante pepe fresco di mulinello.
 
