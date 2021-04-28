@@ -6,7 +6,7 @@ permalink: /about/
 
 # La storia
 
-L'osteria Nascosta alla vista nasce da una idea del Sig. Ranulfo, cucinare i piatti tipici della zona, in un ambiente rustico e fedele alla tradizione.
+L'osteria Nascosta alla vista nasce da una idea del Sig. Ranulfo Dazzi, cucinare i piatti tipici della zona, in un ambiente rustico e fedele alla tradizione.
 
 Ma cosa c'è di speciale in questa Osteria rispetto a tutte le altre, bellissime e ricche di storia, che si trovano sul territorio?
 
