@@ -9,11 +9,15 @@ image: /assets/article_images/compass1.jpg
 
 La mia Osteria non è facile da trovare, il buon cibo è arte, e solo chi lo apprezza fino in fondo, ed è in grado di prestare attenzione ai piccoli particolari merita di trovarmi.
 
-Scrittura, cucina e musica, le passioni del mio grande amico Filippo Venturi. In questi suoi bellissimi racconti sono celate le indicazioni (precisissime) per trovarmi.
+Scrittura, cucina e musica, le passioni del mio grande amico [Filippo Venturi](http://www.filippoossolaventuri.it/). In questi suoi bellissimi racconti sono celate le indicazioni (precisissime) per trovarmi.
 
 Hai solo bisogno di prestare attenzione ai numeri e di... una mappa.
 
 
+## Il ragù alla bolognese con il Boss - Lato A
+### written by Filippo Venturi
+
+<br/>
 
 
 > Oggi la gente ha fretta. Fretta di avere, fretta di sapere, chiede e ottiene, grazie a una tecnologia che tiene sempre in tasca. Questa è l’era del tutto illimitato, tutto disponibile, tutto dovuto. E in trattoria, dove lassù, dietro al banco, è appeso lo specchio della vita, ogni vizio, ogni tic, ogni esigenza, si riflette amplificata. L’acqua subito, e già che c’è anche il vino, e dov’è il mio secondo, tre caffè e un taxi. Ma anche a casa. L’abbiamo capito bene in tempo di lockdown. È forse l’unica cosa positiva che tiriamo fuori da questo tsunami che ci ha travolto: ci siamo presi il nostro tempo. Tempo per leggere, per ascoltare musica, per cucinare. Tempo per le nostre passioni, tempo per riflettere. Ma siamo già ripartiti, in realtà non vedevamo l’ora. E c’è già qualcos’altro da fare, qualcosa di più urgente, un iPhone che vibra, una notifica, un appuntamento importante. Giusto e normale. Ma una volta non era così. Ci perdevamo di più. Prendete la musica. Si estraeva un disco dalla sua copertina, lo si adagiava sul piatto e ci si sdraiava sul divano, a seguirlo, a capirlo, seguendone le tracce nella sequenza in cui le aveva pensate l’autore. Nessuna casualità, niente di random, no algoritmi a consigliarci. Ci si lasciava andare per un po’: mezzoretta di lato A e altrettanto di lato B. I più giovani che stanno leggendo si staranno chiedendo di che cavolo di fantascienza stiamo parlando.

@@ -9,7 +9,7 @@ image: /assets/article_images/compass2.jpg
 
 La mia Osteria non è facile da trovare, il buon cibo è arte, e solo chi lo apprezza fino in fondo, ed è in grado di prestare attenzione ai piccoli particolari merita di trovarmi.
 
-Scrittura, cucina e musica, le passioni del mio grande amico Filippo Venturi. In questi suoi bellissimi racconti sono celate le indicazioni (precisissime) per trovarmi.
+Scrittura, cucina e musica, le passioni del mio grande amico [Filippo Venturi](http://www.filippoossolaventuri.it/). In questi suoi bellissimi racconti sono celate le indicazioni (precisissime) per trovarmi.
 
 Se siete arrivati fino a qua, avete già letto attentamente la Parte 1... in caso contrario, tornate indietro. 
 
@@ -19,6 +19,11 @@ Vi immaginate se Mozart avesse saltato dei movimenti in una delle sue opere?
 Presta ancora attenzione ai numeri.
 
 
+
+## Il ragù alla bolognese con il Boss - Lato B
+### written by Filippo Venturi
+
+<br/>
 
 >Cambio lato. Parte subito No Surrender. È incredibile come siano una via l’altra, una più bella dell’altra. È il momento del pomodoro. Versate nel vostro tegame 1 bottiglia di passata. Ho detto passata. Non rustica, verace, niente pezzettoni. Se no è un disastro. Io poi ci aggiungerei anche un’altra nocetta di burro (65 grammi…), amen il colesterolo, il nostro compito in questo momento non è migliorare gli esami del sangue, ma fare un ragù come dio comanda. 
 
