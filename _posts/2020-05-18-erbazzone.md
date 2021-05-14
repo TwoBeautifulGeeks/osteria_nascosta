@@ -2,7 +2,7 @@
 layout: post
 title:  "Erbazzone Emiliano"
 categories: ricette
-tags: featured
+tags: 
 image: /assets/article_images/erbazzone.jpg
 ---
 L’erbazzone è una torta salata di spinaci e pancetta, tipica del reggiano, che risale ai tempi più antichi, quando i contadini si preparavano il pranzo con i pochi ingredienti che avevano a disposizione.
